@@ -4,7 +4,7 @@
 
 View the URL Shortener in action:
 
-* [<[https://schulsani.github.io/l]>]
+https://schulsani.github.io/l
 Read a blog post about the URL Shortener:
 
 * <https://conductofcode.io/post/introducing-jekyll-url-shortener/>
